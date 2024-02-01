@@ -1,3 +1,8 @@
+1/2 of my FullStack Webapplication made with react and deployed.
+
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
